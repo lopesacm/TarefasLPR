@@ -1,0 +1,14 @@
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\bin\Debug\net9.0\exer1.exe
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\bin\Debug\net9.0\exer1.deps.json
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\bin\Debug\net9.0\exer1.runtimeconfig.json
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\bin\Debug\net9.0\exer1.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\bin\Debug\net9.0\exer1.pdb
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.AssemblyInfoInputs.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.AssemblyInfo.cs
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.csproj.CoreCompileInputs.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\refint\exer1.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.pdb
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\exer1.genruntimeconfig.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer1\obj\Debug\net9.0\ref\exer1.dll
