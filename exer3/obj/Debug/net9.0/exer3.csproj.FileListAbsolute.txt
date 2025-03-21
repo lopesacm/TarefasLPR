@@ -1,0 +1,15 @@
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\bin\Debug\net9.0\exer3.exe
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\bin\Debug\net9.0\exer3.deps.json
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\bin\Debug\net9.0\exer3.runtimeconfig.json
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\bin\Debug\net9.0\exer3.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\bin\Debug\net9.0\exer3.pdb
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.AssemblyInfoInputs.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.AssemblyInfo.cs
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.csproj.CoreCompileInputs.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.sourcelink.json
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\refint\exer3.dll
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.pdb
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\exer3.genruntimeconfig.cache
+C:\Users\Maria Clara\Desktop\TarefasLPR\exer3\obj\Debug\net9.0\ref\exer3.dll
