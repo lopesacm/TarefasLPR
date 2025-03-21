@@ -8,7 +8,7 @@ Console.WriteLine("Digite a classe escolhida:");
 int escolha=int.Parse(Console.ReadLine());
 switch(escolha)
 {
-    case 1:1
+    case 1:
     Console.WriteLine("Você escolheu a classe das Guerreiras que contém as seguintes halibidades: Ataque Pesado e Defesa Total!");
     break;
 
