@@ -1,7 +1,7 @@
 #include "iostream"
 using namespace std;
 
-int iverter(int num) {
+int inverter(int num) {
     int inverte = 0;
     while (num != 0) {
         int digit = num % 10; 

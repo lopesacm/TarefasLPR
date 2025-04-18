@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\exer3\\exer3.csproj": {}
+    "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\aula6\\exer3\\exer3\\exer3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\exer3\\exer3.csproj": {
+    "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\aula6\\exer3\\exer3\\exer3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\exer3\\exer3.csproj",
+        "projectUniqueName": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\aula6\\exer3\\exer3\\exer3.csproj",
         "projectName": "exer3",
-        "projectPath": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\exer3\\exer3.csproj",
+        "projectPath": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\aula6\\exer3\\exer3\\exer3.csproj",
         "packagesPath": "C:\\Users\\Maria Clara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\exer3\\obj\\",
+        "outputPath": "C:\\Users\\Maria Clara\\Desktop\\TarefasLPR\\aula6\\exer3\\exer3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
